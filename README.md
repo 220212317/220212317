@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Athi Sintiya 👋</h1>
-<h3 align="center">Full-Stack Developer · ICT Student @ CPUT · Project Manager & Lead Developer</h3>
+<h3 align="center">Full-Stack Developer · ICT Student @ CPUT · Lead Developer</h3>
 
 <p align="center">
   Building real-world platforms for South African communities — campus commerce, clinic access, fitness management, and beyond.
@@ -10,8 +10,7 @@
 ### 🧑‍💻 About Me
 
 - 🎓 3rd-year **ICT: Applications Development and Software Engineering** student at Cape Peninsula University of Technology
-- 🚀 **CAPACITI AI Skills Accelerator** graduate — full-stack development
-- 🛠️ Regularly work as both **Project Manager** and **Lead Developer** across my projects
+- 🛠️ Regularly work as **Lead Developer** across my projects
 - 🌍 Focused on building platforms that solve genuine needs in South African contexts
 - 💼 Open to freelance technical work
 
@@ -60,7 +59,7 @@
   <tr>
     <td width="50%">
       <h4><a href="https://github.com/220212317/FitNova">💪 FitNova</a></h4>
-      Java/Spring Boot fitness management system built for a CPUT WIL submission — full domain/repository/service/REST layers, MySQL schema normalized to 3NF, React + TypeScript frontend.
+      Java/Spring Boot fitness management system — full domain/repository/service/REST layers, MySQL schema normalized to 3NF, React + TypeScript frontend.
       <br><br>
       <code>Java</code> <code>Spring Boot</code> <code>MySQL</code> <code>React</code>
     </td>
