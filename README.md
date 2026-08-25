@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer · ICT Student @ CPUT · Lead Developer</h3>
 
 <p align="center">
-  Building real-world platforms for South African communities — campus commerce, clinic access, fitness management, and beyond.
+  Building real-world platforms for South African communities, campus commerce, clinic access, fitness management, and beyond.
 </p>
 
 ---
