@@ -83,15 +83,11 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Stats
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=220212317&show_icons=true&theme=radical" />
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=220212317&layout=compact&theme=radical" />
-</p>
-
+![Profile Views](https://komarev.com/ghpvc/?username=220212317&color=blueviolet&style=flat)
+![Top Language](https://img.shields.io/github/languages/top/220212317/CampusMarketplace?style=flat&color=orange)
+![Repo Count](https://img.shields.io/badge/dynamic/json?color=blue&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/220212317)
 ---
 
 ### 📫 Get In Touch
