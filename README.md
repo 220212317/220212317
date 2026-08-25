@@ -12,7 +12,7 @@
 - 🎓 3rd-year **ICT: Applications Development and Software Engineering** student at Cape Peninsula University of Technology
 - 🛠️ Regularly work as **Lead Developer** across my projects
 - 🌍 Focused on building platforms that solve genuine needs in South African contexts
-- 💼 Open to freelance technical work
+- 💼 Open to freelance technical work, and internships
 
 ---
 
