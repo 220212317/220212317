@@ -72,7 +72,7 @@
   </tr>
   <tr>
     <td width="50%">
-      <h4><a href="https://github.com/220212317/Android-Project">📱 Android-Project</a></h4>
+      <h4><a href="https://github.com/220212317/Android-Project">📱 HelpingHands</a></h4>
       Native Android application built in Java.
       <br><br>
       <code>Java</code> <code>Android</code>
